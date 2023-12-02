@@ -9,7 +9,7 @@ export function createMarkup(arrayItem) {
             comments,
             downloads,
         }) => `<div class="photo-card">
-        <a class="gallery-link" href="${largeImageURL}">
+                <a class="gallery-link" href="${largeImageURL}">
                             <img src="${webformatURL}" alt="${tags}" loading="lazy" />
                 <div class="info">
                 <p class="info-item">

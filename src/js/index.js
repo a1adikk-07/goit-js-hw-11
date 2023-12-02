@@ -1,8 +1,9 @@
 import  Notiflix  from "notiflix";
 import SimpleLightbox from "simplelightbox";
-import { createMarkup } from "./markup.js";
+import { createMarkup } from './marcup.js';
 import { getRequest } from "./api.js";
 import SimpleLightbox from "simplelightbox/dist/simple-lightbox.css";
+
 
 const searchForm = document.querySelector('.search-form');
 const searchInput = document.querySelector('.search-input');
