@@ -8,7 +8,7 @@ p {
 }
 
 .search-form {
-    background-color: rgb(64, 224, 208);
+    background-color: rgb(102, 140, 249);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,14 +31,14 @@ p {
     height: 38px;
     border: none;
     outline: none;
-    background-color: rgb(142, 247, 245);
+    background-color: rgb(160, 220, 250);
 
 }
 
 .search-button {
     position: absolute;
     border: none;
-    background-color: rgb(20, 249, 249);
+    background-color: rgb(120, 190, 240);
     top: 0;
     right: -1px;
     height: 100%;
@@ -52,7 +52,7 @@ p {
 }
 
 .search-button:hover {
-    background-color: rgb(2, 100, 72);
+    background-color: rgb(80, 150, 210);
 }
 
 .icon {
