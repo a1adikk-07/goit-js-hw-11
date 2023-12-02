@@ -15,8 +15,8 @@ let page = 1;
 let totalResult = 0;
 
 let lightbox = new SimpleLightbox('.gallery-link', {
-    captionDelay: 250,
-    captionsData: 'alt',
+	captionDelay: 250,
+	captionsData: 'alt',
 });
 
 let option = {
